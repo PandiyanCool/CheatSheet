@@ -1,5 +1,7 @@
 # Cheat Sheet for full stack developers
 
+## Visual Studio Code
+
 Keyboard shortcuts for Windows - Visual Studio Code
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
