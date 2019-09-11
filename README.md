@@ -1,1 +1,1 @@
-# Cheat Sheet
+# Cheat Sheet for full stack developers
