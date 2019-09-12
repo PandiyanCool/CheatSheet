@@ -34,3 +34,4 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 ## Visual Studio 
 Visual Studio 2017 keyboard shortcuts
 http://visualstudioshortcuts.com/2017/
+
