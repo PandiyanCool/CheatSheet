@@ -10,26 +10,20 @@
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## MarkDown
-MARKDOWN SYNTAX
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[MARKDOWN SYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## SQL
-SQL Connection strings
-https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-Sheet
+[SQL Connection strings](https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-Sheet)
 
 
 ## Visual Studio Code
-Keyboard shortcuts for Windows - Visual Studio Code
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+[Keyboard shortcuts for Windows - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-Keyboard shortcuts for macOS - Visual Studio Code
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+[Keyboard shortcuts for macOS - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
-Keyboard shortcuts for Linux - Visual Studio Code
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+[Keyboard shortcuts for Linux - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 
 ## Visual Studio 
-Visual Studio 2017 keyboard shortcuts
-http://visualstudioshortcuts.com/2017/
+[Visual Studio 2017 keyboard shortcuts](http://visualstudioshortcuts.com/2017/)
 
