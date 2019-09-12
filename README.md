@@ -1,9 +1,14 @@
 # Cheat Sheet for full stack developers
 
+
+
 ## GIT
 Git Cheat Sheet
 https://education.github.com/git-cheat-sheet-education.pdf
 
+## MarkDown
+MARKDOWN SYNTAX
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 ## SQL
 SQL Connection strings
