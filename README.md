@@ -3,6 +3,10 @@
 ## Introduction
 ```This is a curated list of cheatsheet and shortcuts for full stack developers. Feel free to contribute.```
 
+## Angular
+Angular guide
+https://angular.io/guide/cheatsheet
+
 ## GIT
 Git Cheat Sheet
 https://education.github.com/git-cheat-sheet-education.pdf
@@ -17,7 +21,6 @@ https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-She
 
 
 ## Visual Studio Code
-
 Keyboard shortcuts for Windows - Visual Studio Code
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
@@ -29,6 +32,5 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 
 
 ## Visual Studio 
-
 Visual Studio 2017 keyboard shortcuts
 http://visualstudioshortcuts.com/2017/
