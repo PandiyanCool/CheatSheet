@@ -1,5 +1,13 @@
 # Cheat Sheet for full stack developers
 
+## GIT
+Git Cheat Sheet
+https://education.github.com/git-cheat-sheet-education.pdf
+
+## SQL
+SQL Connection strings
+https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-Sheet
+
 ## Visual Studio Code
 
 Keyboard shortcuts for Windows - Visual Studio Code
