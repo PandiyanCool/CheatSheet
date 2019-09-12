@@ -6,6 +6,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Angular
 [Angular guide](https://angular.io/guide/cheatsheet)
 
+## Emmet
+[Emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
+
 ## Emoji
 [Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
@@ -13,7 +16,7 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## MarkDown
-[MARKDOWN SYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[MarkDown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## React.js
 [React.js cheatsheet](https://devhints.io/react)
