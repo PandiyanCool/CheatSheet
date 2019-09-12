@@ -24,6 +24,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## SQL
 [SQL Connection strings](https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-Sheet)
 
+## Sublime
+[Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
+
 
 ## Visual Studio Code
 [Keyboard shortcuts for Windows - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
