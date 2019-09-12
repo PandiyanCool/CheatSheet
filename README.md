@@ -4,12 +4,10 @@
 ```This is a curated list of cheatsheet and shortcuts for full stack developers. Feel free to contribute.```
 
 ## Angular
-Angular guide
-https://angular.io/guide/cheatsheet
+[Angular guide](https://angular.io/guide/cheatsheet)
 
 ## GIT
-Git Cheat Sheet
-https://education.github.com/git-cheat-sheet-education.pdf
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## MarkDown
 MARKDOWN SYNTAX
