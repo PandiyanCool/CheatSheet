@@ -6,6 +6,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Angular
 [Angular guide](https://angular.io/guide/cheatsheet)
 
+## Emoji
+[Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 ## GIT
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
