@@ -6,6 +6,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Angular
 [Angular guide](https://angular.io/guide/cheatsheet)
 
+## C#
+[C# Cheatsheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
+
 ## Emmet
 [Emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
