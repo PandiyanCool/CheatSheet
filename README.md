@@ -1,7 +1,7 @@
 # Cheat Sheet for full stack developers
 
 ## Introduction
-```This is a curated list of cheatsheet and shortcuts for full stack developers. Feel free to contribute.```
+This is a curated list of cheatsheet and shortcuts for full stack developers. Feel free to contribute. :fire:
 
 ## Angular
 [Angular guide](https://angular.io/guide/cheatsheet)
