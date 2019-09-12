@@ -15,6 +15,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## MarkDown
 [MARKDOWN SYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+## React.js
+[React.js cheatsheet](https://devhints.io/react)
+
 ## SQL
 [SQL Connection strings](https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-Sheet)
 
