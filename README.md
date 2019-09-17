@@ -6,6 +6,10 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Angular
 [Angular guide](https://angular.io/guide/cheatsheet)
 
+## Azure
+
+[Azure Tips](https://microsoft.github.io/AzureTipsAndTricks/)
+
 ## C#
 [C# Cheatsheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
 
@@ -14,6 +18,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 ## Emoji
 [Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## ES6
+[ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 ## GIT
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -39,6 +46,6 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 [Keyboard shortcuts for Linux - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
 
-## Visual Studio 
+## Visual Studio
 [Visual Studio 2017 keyboard shortcuts](http://visualstudioshortcuts.com/2017/)
 
