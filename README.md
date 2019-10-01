@@ -81,3 +81,6 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 ## PyCharm
 [PyCharm Cheat Sheet](https://www.shortcutfoo.com/app/dojos/pycharm-mac/cheatsheet)
+
+## Ballerina
+[Ballerina Cheat Sheet](https://v1-0.ballerina.io/learn/)
