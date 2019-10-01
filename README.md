@@ -40,6 +40,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## MarkDown
 [MarkDown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+## Python
+[Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
 ## React.js
 [React.js cheatsheet](https://devhints.io/react)
 
@@ -52,8 +55,6 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Sublime
 [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 
-## Python
-[Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 
 ## Visual Studio Code
@@ -63,8 +64,8 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 [Keyboard shortcuts for Linux - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
-
 ## Visual Studio
 [Visual Studio 2017 keyboard shortcuts](http://visualstudioshortcuts.com/2017/)
 
-
+## VueJS
+[VueJS Cheat Sheet](https://www.vuemastery.com/vue-cheat-sheet/)
