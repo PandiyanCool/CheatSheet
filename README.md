@@ -72,3 +72,6 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 ## GoLang
 [GoLang Cheat Sheet](https://devhints.io/go)
+
+## PyCharm
+[PyCharm Cheat Sheet](https://www.shortcutfoo.com/app/dojos/pycharm-mac/cheatsheet)
