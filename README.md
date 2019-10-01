@@ -52,6 +52,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## reStructuredText
 [reStructuredText Syntax](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst)
 
+## Regular Expressions
+[Regex cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+
 ## SQL
 [SQL Connection strings](https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-Sheet)
 
