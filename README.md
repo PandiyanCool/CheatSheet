@@ -52,6 +52,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Sublime
 [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 
+## Python
+[Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+
 
 ## Visual Studio Code
 [Keyboard shortcuts for Windows - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
