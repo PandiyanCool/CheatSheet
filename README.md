@@ -14,8 +14,7 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 [C# Cheatsheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
 
 ## CSS
-[CSS Grid sheet]
-(http://grid.malven.co/)
+[CSS Grid sheet](http://grid.malven.co/)
 
 ## Emmet
 [Emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
@@ -30,15 +29,13 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## HTML
-[HTML Head Elements]
-(https://htmlhead.dev/#recommended-minimum)
+[HTML Head Elements](https://htmlhead.dev/#recommended-minimum)
 
 ## IntelliJ IDEA
 [Keyboard shortcuts for Windows and Mac - IntelliJ IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 ## JavaScript
-[JavaScript Arrays Explorer]
-(https://sdras.github.io/array-explorer/)
+[JavaScript Arrays Explorer](https://sdras.github.io/array-explorer/)
 
 ## MarkDown
 [MarkDown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
