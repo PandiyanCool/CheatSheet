@@ -49,3 +49,14 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Visual Studio
 [Visual Studio 2017 keyboard shortcuts](http://visualstudioshortcuts.com/2017/)
 
+## JavaScript
+[JavaScript Arrays Explorer]
+(https://sdras.github.io/array-explorer/)
+
+## HTML
+[HTML Head Elements]
+(https://htmlhead.dev/#recommended-minimum)
+
+## CSS
+[CSS Grid sheet]
+(http://grid.malven.co/)
