@@ -49,3 +49,6 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Visual Studio
 [Visual Studio 2017 keyboard shortcuts](http://visualstudioshortcuts.com/2017/)
 
+## VueJS
+[VueJS Cheat Sheet](https://www.vuemastery.com/vue-cheat-sheet/)
+
