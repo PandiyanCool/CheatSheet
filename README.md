@@ -38,6 +38,10 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## IntelliJ IDEA
 [Keyboard shortcuts for Windows and Mac - IntelliJ IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
+## Laravel
+[Laravel Cheat Sheet](https://webdevetc.com/programming-tricks/laravel/cheatsheet)
+
+
 ## JavaScript
 [JavaScript Arrays Explorer](https://sdras.github.io/array-explorer/)
 
