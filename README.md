@@ -18,6 +18,7 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 ## CSS
 [CSS Grid sheet](http://grid.malven.co/)
+[CSS Flexbox cheatsheet/guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Emmet
 [Emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
