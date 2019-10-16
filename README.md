@@ -10,8 +10,10 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 [Angular guide](https://angular.io/guide/cheatsheet)
 
 ## Azure
-
 [Azure Tips](https://microsoft.github.io/AzureTipsAndTricks/)
+
+## Ballerina
+[Ballerina Cheat Sheet](https://v1-0.ballerina.io/learn/)
 
 ## C#
 [C# Cheatsheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
@@ -29,6 +31,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## ES6
 [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
+## GoLang
+[GoLang Cheat Sheet](https://devhints.io/go)
+
 ## GIT
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
@@ -38,15 +43,17 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## IntelliJ IDEA
 [Keyboard shortcuts for Windows and Mac - IntelliJ IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
-## Laravel
-[Laravel Cheat Sheet](https://webdevetc.com/programming-tricks/laravel/cheatsheet)
-
-
 ## JavaScript
 [JavaScript Arrays Explorer](https://sdras.github.io/array-explorer/)
 
+## Laravel
+[Laravel Cheat Sheet](https://webdevetc.com/programming-tricks/laravel/cheatsheet)
+
 ## MarkDown
 [MarkDown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+## PyCharm
+[PyCharm Cheat Sheet](https://www.shortcutfoo.com/app/dojos/pycharm-mac/cheatsheet)
 
 ## Python
 [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
@@ -66,8 +73,6 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Sublime
 [Sublime Text 3](https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet)
 
-
-
 ## Visual Studio Code
 [Keyboard shortcuts for Windows - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
@@ -80,12 +85,3 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 ## VueJS
 [VueJS Cheat Sheet](https://www.vuemastery.com/vue-cheat-sheet/)
-
-## GoLang
-[GoLang Cheat Sheet](https://devhints.io/go)
-
-## PyCharm
-[PyCharm Cheat Sheet](https://www.shortcutfoo.com/app/dojos/pycharm-mac/cheatsheet)
-
-## Ballerina
-[Ballerina Cheat Sheet](https://v1-0.ballerina.io/learn/)
