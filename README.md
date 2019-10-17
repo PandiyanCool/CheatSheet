@@ -88,4 +88,4 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 ---
 
-:wave: Say hi [@pandiyan_cool](http://twitter.com/pandiyan_cool) or <a href='https://ko-fi.com/L4L115SV9'>Buy me a Coffee</a> :coffee:
+Say hi [@pandiyan_cool](http://twitter.com/pandiyan_cool) or <a href='https://ko-fi.com/L4L115SV9'>Buy me a Coffee</a> :coffee:
