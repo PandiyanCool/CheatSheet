@@ -49,6 +49,9 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Laravel
 [Laravel Cheat Sheet](https://webdevetc.com/programming-tricks/laravel/cheatsheet)
 
+## LINQ
+[LINQ Cheat Sheet](https://vslapp.files.wordpress.com/2011/11/linq-cheatsheet.pdf)
+
 ## MarkDown
 [MarkDown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
