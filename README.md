@@ -18,8 +18,12 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## C#
 [C# Cheatsheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf)
 
+## Command Line
+[CLI Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli)
+
 ## CSS
 [CSS Grid sheet](http://grid.malven.co/)
+
 [CSS Flexbox cheatsheet/guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Emmet
@@ -37,14 +41,25 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## GIT
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+[Git Cheat Sheet by Tower](https://www.git-tower.com/learn/cheat-sheets/git)
+
+[Working with Branches in Git Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git-branches)
+
 ## HTML
 [HTML Head Elements](https://htmlhead.dev/#recommended-minimum)
+
+[HTML Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/html)
+
+## Hugo
+[Hugo Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/hugo)
 
 ## IntelliJ IDEA
 [Keyboard shortcuts for Windows and Mac - IntelliJ IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 ## JavaScript
 [JavaScript Arrays Explorer](https://sdras.github.io/array-explorer/)
+
+[JavaScript Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/javascript)
 
 ## Laravel
 [Laravel Cheat Sheet](https://webdevetc.com/programming-tricks/laravel/cheatsheet)
@@ -54,6 +69,11 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 ## MarkDown
 [MarkDown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+[Markdown Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/markdown)
+
+## PowerShell
+[PowerShell Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/powershell)
 
 ## PyCharm
 [PyCharm Cheat Sheet](https://www.shortcutfoo.com/app/dojos/pycharm-mac/cheatsheet)
@@ -70,6 +90,11 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## Regular Expressions
 [Regex cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
+[Regex Cheat Sheet by Tower](https://www.git-tower.com/learn/cheat-sheets/regex)
+
+## Ruby on Rails
+[Ruby on Rails Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/ruby-on-rails)
+
 ## SQL
 [SQL Connection strings](https://github.com/NetSPI/PowerUpSQL/wiki/SQL-Server-Connection-String-Cheat-Sheet)
 
@@ -83,11 +108,16 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 
 [Keyboard shortcuts for Linux - Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
+[Visual Studio Code Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/vscode)
+
 ## Visual Studio
 [Visual Studio 2017 keyboard shortcuts](http://visualstudioshortcuts.com/2017/)
 
 ## VueJS
 [VueJS Cheat Sheet](https://www.vuemastery.com/vue-cheat-sheet/)
+
+## Xcode
+[Xcode Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/xcode)
 
 ## Java
 [Java for beginners Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
