@@ -125,7 +125,6 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 [Java for beginners Cheat Sheet 2](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
 
 [Java core Cheat Sheet ](https://dzone.com/refcardz/core-java?chapter=1)
-https://dzone.com/refcardz/core-java?chapter=1
 
 [Java 8 best practices Cheat Sheet](https://jrebel.com/rebellabs/java-8-best-practices-cheat-sheet/)
 
