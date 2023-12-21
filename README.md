@@ -89,6 +89,17 @@ This is a curated list of cheatsheet and shortcuts for full stack developers. Fe
 ## VueJS
 [VueJS Cheat Sheet](https://www.vuemastery.com/vue-cheat-sheet/)
 
+## Java
+[Java for beginners Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+
+[Java for beginners Cheat Sheet 2](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/)
+
+[Java core Cheat Sheet ](https://dzone.com/refcardz/core-java?chapter=1)
+https://dzone.com/refcardz/core-java?chapter=1
+
+[Java 8 best practices Cheat Sheet](https://jrebel.com/rebellabs/java-8-best-practices-cheat-sheet/)
+
+
 ---
 
 Say hi [@pandiyan_cool](http://twitter.com/pandiyan_cool) or <a href='https://ko-fi.com/L4L115SV9'>Buy me a Coffee</a> :coffee:
